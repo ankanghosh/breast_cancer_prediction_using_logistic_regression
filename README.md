@@ -3,7 +3,7 @@ Classification and prediction of breast cancer (benign / malignant) using a data
 
 # About the project
 Classification and prediction of breast cancer (benign / malignant) using a dataset from Kaggle and logistic regression.
-This is a Google Colab notebook to predict breast cancer using a Kaggle dataset. The data is first cleaned and normlized. PCA is used to aid in dimensionality reduction and feature engineering. A single-layer neural network is used to implement the logistic regression model for binary classification. The model performs fairly well and achieves an accuracy of about 99%.
+This is a Google Colab notebook to predict breast cancer using a Kaggle dataset. The data is first cleaned and normlized. Principal Component Analysis (PCA) is used to aid in dimensionality reduction and feature engineering. A single-layer neural network is used to implement the logistic regression model for binary classification. The model performs fairly well and achieves an accuracy of about 99%.
 
 # Tools Used
 Tools and libraries used in this project include TensorFlow, Keras, pandas, NumPy, scikit-learn, Matplotlib, and seaborn.
