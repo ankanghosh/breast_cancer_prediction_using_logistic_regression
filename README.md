@@ -15,7 +15,7 @@ Anyone can use the project to get started with the basics of binary classificati
 Anyone interested in getting started with Machine Learning or Deep Learning, specifically, binary classification tasks using TensorFlow and logistic regression, can clone or download the project to get started.
 
 # References
-I have leveraged ChatGPT for guidance in terms of some concepts and to clarify doubts, both theoretical and code-based. However, I did not use ChatGPT to generate code. One may find [this](https://saturncloud.io/blog/multiclass-logistic-regression-with-tensorflow-20-a-comprehensive-guide/#3) article about multi-class classification useful for getting started.
+One may find [this](https://saturncloud.io/blog/multiclass-logistic-regression-with-tensorflow-20-a-comprehensive-guide/#3) article about multi-class classification useful for getting started.
 
 # Additional Notes
 1. The dataset is available on Kaggle [here](https://www.kaggle.com/datasets/erdemtaha/cancer-data/data). If the dataset is taken down in the future, please feel free to reach out to me at ankanatwork@gmail.com if you would like to learn more about the data. However, I may not be able to share the dataset with you due to licensing restrictions.
