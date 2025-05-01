@@ -20,3 +20,4 @@ One may find [this](https://saturncloud.io/blog/multiclass-logistic-regression-w
 # Additional Notes
 1. The dataset is available on Kaggle [here](https://www.kaggle.com/datasets/erdemtaha/cancer-data/data). If the dataset is taken down in the future, please feel free to reach out to me at ankanatwork@gmail.com if you would like to learn more about the data. However, I may not be able to share the dataset with you due to licensing restrictions.
 2. The project is a basic one in nature and is not currently being maintained.
+3. [Here](https://researchguy.in/breast-cancer-prediction-using-tensorflow-a-logistic-regression-approach/) is the blog post covering this work.
